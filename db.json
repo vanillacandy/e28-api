@@ -1,86 +1,87 @@
 {
-	"jokes": [{
-			"id": 1,
-			"name": "Joke about dreams",
-			"description": "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.",
-			"categories": [
-				"funny"
-			]
-		},
-		{
-			"id": 2,
-			"name": "Joke about guy",
-			"description": "Did you hear about the guy whose whole left side was cut off? He's all right now.",
-			"categories": [
-				"funny"
-			]
-		},
-		{
-			"id": 3,
-			"name": "Joke about skeleton",
-			"description": "Why didn’t the skeleton cross the road? Because he had no guts.",
-			"categories": [
-				"not funny"
-			]
-		},
-		{
-			"id": 4,
-			"name": "Joke about nut",
-			"description": "What did one nut say as he chased another nut?  I'm a cashew!",
-			"categories": [
-				"not funny"
-			]
-		},
-		{
-			"id": 5,
-			"name": "Joke about shopping",
-			"description": "Chances are if you' ve seen one shopping center, you've seen a mall.",
-			"categories": [
-				"not funny"
-			]
-		},
-		{
-			"id": 6,
-			"name": "Joke about mixer",
-			"description": "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.",
-			"categories": [
-				"breakfast",
-				"not funny"
-			]
-		},
-		{
-			"id": 7,
-			"name": "Joke about stadium",
-			"description": "How come the stadium got hot after the game? Because all of the fans left.",
-			"categories": [
-				"frozen",
-				"funny"
-			]
-		},
-		{
-			"id": 8,
-			"name": "Joke about dark",
-			"description": "Why was it called the dark ages? Because of all the knights.",
-			"categories": [
-				"frozen",
-				"funny"
-			]
-		},
-		{
-			"id": 9,
-			"name": "Joke about steak",
-			"description": "A steak pun is a rare medium well done.",
-			"categories": [
-				"funny"
-			]
-		},
-		{
-			"id": 10,
-			"name": "Joke about tomato",
-			"description": "Why did the tomato blush? Because it saw the salad dressing.",
-			"categories": [
-				"funny"
-			]
-		}
-	]
+  "jokes": [
+    {
+      "id": 1,
+      "name": "Joke about dreams",
+      "description": "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.",
+      "categories": [
+        "funny"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Joke about guy",
+      "description": "Did you hear about the guy whose whole left side was cut off? He's all right now.",
+      "categories": [
+        "funny"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Joke about skeleton",
+      "description": "Why didn’t the skeleton cross the road? Because he had no guts.",
+      "categories": [
+        "not funny"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Joke about nut",
+      "description": "What did one nut say as he chased another nut?  I'm a cashew!",
+      "categories": [
+        "not funny"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Joke about shopping",
+      "description": "Chances are if you' ve seen one shopping center, you've seen a mall.",
+      "categories": [
+        "not funny"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Joke about mixer",
+      "description": "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.",
+      "categories": [
+        "breakfast",
+        "not funny"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Joke about stadium",
+      "description": "How come the stadium got hot after the game? Because all of the fans left.",
+      "categories": [
+        "frozen",
+        "funny"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Joke about dark",
+      "description": "Why was it called the dark ages? Because of all the knights.",
+      "categories": [
+        "frozen",
+        "funny"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Joke about steak",
+      "description": "A steak pun is a rare medium well done.",
+      "categories": [
+        "funny"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Joke about tomato",
+      "description": "Why did the tomato blush? Because it saw the salad dressing.",
+      "categories": [
+        "funny"
+      ]
+    }
+   ]
 }
