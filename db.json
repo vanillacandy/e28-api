@@ -45,7 +45,6 @@
       "name": "Joke about mixer",
       "description": "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.",
       "categories": [
-        "breakfast",
         "not funny"
       ]
     },
@@ -54,7 +53,6 @@
       "name": "Joke about stadium",
       "description": "How come the stadium got hot after the game? Because all of the fans left.",
       "categories": [
-        "frozen",
         "funny"
       ]
     },
@@ -63,7 +61,6 @@
       "name": "Joke about dark",
       "description": "Why was it called the dark ages? Because of all the knights.",
       "categories": [
-        "frozen",
         "funny"
       ]
     },
